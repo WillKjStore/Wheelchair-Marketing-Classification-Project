@@ -1,3 +1,3 @@
-git add README.md
+
 I created a model to classify venues in London based on their accessibility (whether they have a wheelchair ramp or not). My model met the required accuracy set in the brief and was approved by the team. 
 This was the project I worked on to be certified as a Professional Data Scientist. The notebook includes a comprehensive technical report on the subject and a presentation for the non-technical folks is linked as the last item therein.
